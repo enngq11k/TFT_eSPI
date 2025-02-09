@@ -117,6 +117,8 @@ menu "TFT_eSPI"
                 bool "GREENTAB2"
             config TFT_ST7735_GREENTAB3
                 bool "GREENTAB3"
+            config ST7735_ROBOTLCD
+                bool "ROBOTLCD"
             config TFT_ST7735_GREENTAB128
                 bool "GREENTAB128"
                 help
